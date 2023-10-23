@@ -52,6 +52,12 @@
       <version>${thymeleaf.version}</version>
     </dependency>
 
+    <dependency>
+      <groupId>org.hibernate.validator</groupId>
+      <artifactId>hibernate-validator</artifactId>
+      <version>6.1.6.Final</version>
+    </dependency>
+
   </dependencies>
 
   <build>
